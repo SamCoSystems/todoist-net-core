@@ -1,6 +1,6 @@
-using System
+using System;
 
-namesapce TodoistNetCore.Models
+namespace TodoistNetCore.Models
 {
 	public class Project
 	{
